@@ -1,0 +1,13 @@
+C:\Users\paulosilva\source\repos\appRotas\appRotas\bin\Debug\netcoreapp3.1\appRotas.exe
+C:\Users\paulosilva\source\repos\appRotas\appRotas\bin\Debug\netcoreapp3.1\appRotas.deps.json
+C:\Users\paulosilva\source\repos\appRotas\appRotas\bin\Debug\netcoreapp3.1\appRotas.runtimeconfig.json
+C:\Users\paulosilva\source\repos\appRotas\appRotas\bin\Debug\netcoreapp3.1\appRotas.runtimeconfig.dev.json
+C:\Users\paulosilva\source\repos\appRotas\appRotas\bin\Debug\netcoreapp3.1\appRotas.dll
+C:\Users\paulosilva\source\repos\appRotas\appRotas\bin\Debug\netcoreapp3.1\appRotas.pdb
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.csproj.AssemblyReference.cache
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.AssemblyInfoInputs.cache
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.AssemblyInfo.cs
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.csproj.CoreCompileInputs.cache
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.dll
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.pdb
+C:\Users\paulosilva\source\repos\appRotas\appRotas\obj\Debug\netcoreapp3.1\appRotas.genruntimeconfig.cache
