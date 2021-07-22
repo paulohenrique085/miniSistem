@@ -31,10 +31,9 @@ namespace appRotas
                 }
             }
         }
-        
         public static int TotalDeRotas { get; private set; }
         //construtor
-       public Rota(int numeroRota,string cidadeInicial, string cidadeFinal,string estado,double investimento)
+        public Rota(int numeroRota,string cidadeInicial, string cidadeFinal,string estado,double investimento)
         {
             NumeroDarota = numeroRota;
             CidadeInicial = cidadeInicial;
@@ -43,5 +42,18 @@ namespace appRotas
             TotalDeRotas++;
 
         }
+        public void AdcionarVeiculo(Veiculo veiculo)
+        {
+            if (veiculo.CondicoesDoVeiculo == true)
+            {
+                Console.WriteLine(veiculo.Modelo + " incluído a rota " + NumeroDarota);
+            }
+            else { Console.WriteLine(veiculo.Modelo + " impossibilitado de trafegar, por más condições"); }
+
+        }
+       
+
+
+
     }
 }
